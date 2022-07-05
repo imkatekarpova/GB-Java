@@ -37,7 +37,7 @@
 }</component>
   <component name="RunManager">
     <configuration name="RunNow" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="homework6.Main" />
+      <option name="MAIN_CLASS_NAME" value="homework7.Main" />
       <module name="JavaHomeworks" />
       <method v="2">
         <option name="Make" enabled="true" />
